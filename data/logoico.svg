@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.15;fill:#45413C;}
+	.st1{fill:#FF6196;}
+	.st2{fill:#FF87AF;}
+	.st3{fill:none;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFE500;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#FFE500;}
+	.st6{fill:#EBCB00;}
+	.st7{fill:#EBCB00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:#FFF48C;}
+	.st9{fill:#FFCCDD;stroke:#FFB0CA;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st10{fill:#FFB0CA;stroke:#FF87AF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{opacity:0.7;fill:#FFE5EE;}
+	.st12{fill:#009FD9;}
+	.st13{fill:#00B8F0;}
+	.st14{fill:#656769;}
+	.st15{fill:#87898C;}
+	.st16{fill:#FF6242;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st17{fill:#4AEFF7;}
+	.st18{fill:#00DFEB;}
+	.st19{fill:#A6FBFF;}
+	.st20{fill:#FFFFFF;}
+	.st21{fill:#E5F8FF;}
+	.st22{fill:#E5F8FF;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st23{fill:#FFE500;stroke:#EBCB00;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st24{fill:#BDBEC0;}
+	.st25{fill:#4ACFFF;}
+	.st26{fill:#E8F4FA;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st27{fill:#80DDFF;}
+	.st28{fill:#009FD9;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st29{fill:#B8ECFF;}
+	.st30{fill:#4ACFFF;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st31{fill:#B8ECFF;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st32{fill:#FFFACF;}
+	.st33{fill:#FFF48C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st34{fill:#BF8256;}
+	.st35{fill:#DEA47A;}
+	.st36{fill:#656769;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st37{fill:#FF8A14;}
+	.st38{fill:#FFAA54;}
+	.st39{fill:#EB6D00;}
+	.st40{fill:#627B8C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st41{fill:#FFFFFF;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st42{fill:#E0366F;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st43{fill:#FF87AF;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st44{fill:#E0366F;}
+	.st45{fill:#FF6196;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st46{fill:#525252;}
+	.st47{fill:#DEBB7E;}
+	.st48{fill:#F0D5A8;}
+	.st49{fill:#DAEDF7;}
+	.st50{fill:#F7E5C6;}
+	.st51{fill:#DEBB7E;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st52{fill:#FFF5E3;}
+	.st53{fill:#00F5BC;}
+	.st54{fill:#FFB0CA;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st55{fill:#8CFFE4;}
+	.st56{fill:#00DBA8;}
+	.st57{fill:#87898C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st58{fill:#FF6242;}
+	.st59{fill:#FF866E;}
+	.st60{fill:#F0F0F0;}
+	.st61{fill:#BDBEC0;stroke:#45413C;stroke-width:1.0064;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st62{fill:#947746;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st63{fill:#B89558;}
+	.st64{fill:#E04122;}
+	.st65{fill:#C0DCEB;}
+	.st66{fill:#E8F4FA;}
+	.st67{fill:#00B8F0;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st68{fill:#80DDFF;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st69{fill:#9CEB60;}
+	.st70{fill:#C8FFA1;}
+	.st71{fill:#FFB0CA;}
+	.st72{fill:#FFCCDD;}
+	.st73{fill:#FFE5EE;}
+	.st74{fill:#45413C;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st75{fill:#FFCABF;}
+	.st76{fill:#FFA694;}
+	.st77{fill:#FFA694;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st78{fill:#FFCC99;}
+	.st79{fill:#8CA4B8;}
+	.st80{fill:#ADC4D9;}
+	.st81{fill:#F0D5A8;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st82{fill:#BDBEC0;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st83{fill:#E0E0E0;}
+	.st84{fill:#45413C;}
+	.st85{fill:#E5FEFF;}
+	.st86{fill:#FFFCE5;}
+	.st87{fill:#FFAA54;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st88{fill:#6DD627;}
+	.st89{fill:#46B000;}
+	.st90{fill:#FFE8E0;}
+	.st91{fill:#FFCEBF;}
+	.st92{fill:#FFE8D1;}
+	.st93{fill:#FFF48C;stroke:#4F4B45;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st94{fill:#FFDCD1;stroke:#4F4B45;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st95{fill:none;stroke:#4F4B45;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st96{fill:none;stroke:#4F4B45;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st97{fill:#656769;stroke:#4F4B45;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st98{fill:#87898C;stroke:#4F4B45;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st99{fill:#C0DCEB;stroke:#4F4B45;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st100{fill:#FFA694;stroke:#4F4B45;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st101{fill:#E04122;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st102{fill:#FFFCE5;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st103{fill:#915E3A;}
+	.st104{fill:none;stroke:#915E3A;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st105{fill:#915E3A;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st106{fill:#FF866E;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st107{fill:#FFF5E3;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st108{fill:#FFDCD1;}
+	.st109{fill:#FFDCD1;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st110{fill:#F0C2A1;}
+	.st111{fill:#FFE3CF;}
+	.st112{fill:#FFFACF;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st113{fill:#DEA47A;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st114{fill:#F0C2A1;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st115{fill:#EB6D00;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st116{fill:#FF8A14;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st117{fill:#D9FDFF;}
+	.st118{fill:#C8FFA1;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st119{fill:#E4FFD1;}
+	.st120{fill:#E0E0E0;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st121{fill:#FFCCDD;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st122{fill:#BF8256;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st123{fill:#C0DCEB;stroke:#45413C;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="XMLID_11387_">
+	<circle id="XMLID_11423_" class="st5" cx="11.9" cy="9.5" r="7.1"/>
+	<path id="XMLID_11422_" class="st8" d="M11.9,5.7c3.4,0,6.2,2.3,6.9,5.5c0.1-0.5,0.2-1.1,0.2-1.7c0-3.9-3.2-7.1-7.1-7.1
+		S4.7,5.6,4.7,9.5c0,0.6,0.1,1.1,0.2,1.7C5.7,8.1,8.5,5.7,11.9,5.7z"/>
+	<circle id="XMLID_11421_" class="st3" cx="11.9" cy="9.5" r="7.1"/>
+	<circle id="XMLID_11420_" class="st5" cx="36.1" cy="9.5" r="7.1"/>
+	<path id="XMLID_11419_" class="st8" d="M36.1,5.7c3.4,0,6.2,2.3,6.9,5.5c0.1-0.5,0.2-1.1,0.2-1.7c0-3.9-3.2-7.1-7.1-7.1
+		S29,5.6,29,9.5c0,0.6,0.1,1.1,0.2,1.7C29.9,8.1,32.8,5.7,36.1,5.7z"/>
+	<circle id="XMLID_11418_" class="st3" cx="36.1" cy="9.5" r="7.1"/>
+	<circle id="XMLID_11417_" class="st72" cx="36.1" cy="9.4" r="3.6"/>
+	<circle id="XMLID_11416_" class="st72" cx="11.9" cy="9.4" r="3.6"/>
+	<path id="XMLID_11415_" class="st71" d="M36.1,7.9c1.6,0,3,1.1,3.5,2.6c0.1-0.3,0.2-0.7,0.2-1c0-2-1.6-3.6-3.6-3.6
+		c-2,0-3.6,1.6-3.6,3.6c0,0.4,0.1,0.7,0.2,1C33.1,9,34.5,7.9,36.1,7.9z"/>
+	<path id="XMLID_11414_" class="st71" d="M11.9,7.9c1.6,0,3,1.1,3.5,2.6c0.1-0.3,0.2-0.7,0.2-1c0-2-1.6-3.6-3.6-3.6
+		c-2,0-3.6,1.6-3.6,3.6c0,0.4,0.1,0.7,0.2,1C8.8,9,10.2,7.9,11.9,7.9z"/>
+	<circle id="XMLID_11413_" class="st3" cx="36.1" cy="9.4" r="3.6"/>
+	<circle id="XMLID_11412_" class="st3" cx="11.9" cy="9.4" r="3.6"/>
+	<ellipse id="XMLID_11411_" class="st20" cx="24" cy="38.7" rx="6.4" ry="3.6"/>
+	<path id="XMLID_11410_" class="st60" d="M24,35.1c-3.1,0-5.7,1.2-6.3,2.9c0.6,1.6,3.2,2.8,6.3,2.8s5.7-1.2,6.3-2.8
+		C29.7,36.4,27.1,35.1,24,35.1z"/>
+	<ellipse id="XMLID_11409_" class="st3" cx="24" cy="38.7" rx="6.4" ry="3.6"/>
+	<ellipse id="XMLID_11408_" class="st0" cx="24" cy="45.2" rx="13.4" ry="1.8"/>
+	<path id="XMLID_11407_" class="st41" d="M32.6,25.8c-3.6,0-6.8,1.3-8.6,3.3c-1.7-2-4.9-3.3-8.6-3.3c-5.5,0-10,3-10,6.8
+		c0,3.7,4.5,6.8,10,6.8c3.6,0,6.8-1.3,8.6-3.3c1.7,2,4.9,3.3,8.6,3.3c5.5,0,10-3,10-6.8C42.6,28.9,38.1,25.8,32.6,25.8z"/>
+	<path id="XMLID_11406_" class="st5" d="M24,5.9L24,5.9c-8.1,0-14.9,6.2-15.6,14.2l-0.8,8.6l0.8,0.2c4.2,0.8,8.5,0.8,12.7-0.2l3-0.7
+		l3.6,0.8c4.2,0.9,8.6,0.9,12.8-0.1l0,0l-0.8-8.6C38.9,12.1,32.1,5.9,24,5.9z"/>
+	<path id="XMLID_11405_" class="st8" d="M39.6,20.1C38.9,12.1,32.1,5.9,24,5.9S9.1,12.1,8.4,20.1L8,24.7c0.8-8.1,7.9-14.2,16-14.2
+		s15.3,6.2,16,14.2L39.6,20.1z"/>
+	<path id="XMLID_11404_" class="st3" d="M24,5.9L24,5.9c-8.1,0-14.9,6.2-15.6,14.2l-0.8,8.6l0.8,0.2c4.2,0.8,8.5,0.8,12.7-0.2l3-0.7
+		l3.6,0.8c4.2,0.9,8.6,0.9,12.8-0.1l0,0l-0.8-8.6C38.9,12.1,32.1,5.9,24,5.9z"/>
+	<circle id="XMLID_11403_" class="st74" cx="31.4" cy="25" r="1.6"/>
+	<circle id="XMLID_11402_" class="st74" cx="16.6" cy="25" r="1.6"/>
+	<ellipse id="XMLID_11401_" class="st8" cx="37.6" cy="33.2" rx="1.9" ry="1"/>
+	<ellipse id="XMLID_11400_" class="st8" cx="10.4" cy="33.2" rx="1.9" ry="1"/>
+	<path id="XMLID_11399_" class="st63" d="M27.6,29.7c0,1.2-1.6,2.9-3.6,2.9s-3.6-1.7-3.6-2.9c0-1.2,1.6-2.1,3.6-2.1
+		S27.6,28.5,27.6,29.7z"/>
+	<path id="XMLID_11398_" class="st47" d="M24,29.5c1.4,0,2.6,0.5,3.2,1.2c0.2-0.4,0.4-0.7,0.4-1.1c0-1.2-1.6-2.1-3.6-2.1
+		s-3.6,1-3.6,2.1c0,0.3,0.1,0.7,0.4,1.1C21.4,30,22.6,29.5,24,29.5z"/>
+	<path id="XMLID_11397_" class="st3" d="M27.6,29.7c0,1.2-1.6,2.9-3.6,2.9s-3.6-1.7-3.6-2.9c0-1.2,1.6-2.1,3.6-2.1
+		S27.6,28.5,27.6,29.7z"/>
+	<path id="XMLID_11396_" class="st14" d="M30.4,10.6c0,0.6-0.5,1.2-1.2,1.2h-2.9v2.3h2c0.5,0,0.9,0.4,0.9,0.9v0.5
+		c0,0.5-0.4,0.9-0.9,0.9h-2v1.2c0,1.3-1.1,2.3-2.3,2.3c-1.3,0-2.3-1.1-2.3-2.3v-1.2h-2c-0.5,0-0.9-0.4-0.9-0.9V15
+		c0-0.5,0.4-0.9,0.9-0.9h2v-2.3h-2.9c-0.6,0-1.2-0.5-1.2-1.2c0-0.6,0.5-1.2,1.2-1.2h2.9V6.1C22.4,6,23.2,5.9,24,5.9
+		c0.8,0,1.6,0.1,2.3,0.2v3.3h2.9C29.9,9.4,30.4,9.9,30.4,10.6z"/>
+	<path id="XMLID_11395_" class="st15" d="M18.7,11.7h2.9h4.7h2.9c0.6,0,1.2-0.5,1.2-1.2c0-0.6-0.5-1.2-1.2-1.2h-2.9V6.1
+		C25.6,6,24.8,5.9,24,5.9c-0.8,0-1.6,0.1-2.3,0.2v3.3h-2.9c-0.6,0-1.2,0.5-1.2,1.2C17.6,11.2,18.1,11.7,18.7,11.7z"/>
+	<path id="XMLID_11394_" class="st3" d="M30.4,10.6c0,0.6-0.5,1.2-1.2,1.2h-2.9v2.3h2c0.5,0,0.9,0.4,0.9,0.9v0.5
+		c0,0.5-0.4,0.9-0.9,0.9h-2v1.2c0,1.3-1.1,2.3-2.3,2.3c-1.3,0-2.3-1.1-2.3-2.3v-1.2h-2c-0.5,0-0.9-0.4-0.9-0.9V15
+		c0-0.5,0.4-0.9,0.9-0.9h2v-2.3h-2.9c-0.6,0-1.2-0.5-1.2-1.2c0-0.6,0.5-1.2,1.2-1.2h2.9V6.1C22.4,6,23.2,5.9,24,5.9
+		c0.8,0,1.6,0.1,2.3,0.2v3.3h2.9C29.9,9.4,30.4,9.9,30.4,10.6z"/>
+	<g id="XMLID_11391_">
+		<path id="XMLID_11393_" class="st36" d="M8.3,21.1h2.9c0.6,0,1.2-0.5,1.2-1.2c0-0.6-0.5-1.2-1.2-1.2H8.6c-0.1,0.4-0.1,0.9-0.2,1.3
+			L8.3,21.1z"/>
+		<path id="XMLID_11392_" class="st36" d="M11.2,25.2c0-0.6-0.5-1.2-1.2-1.2H8l-0.2,2.3H10C10.6,26.3,11.2,25.8,11.2,25.2z"/>
+	</g>
+	<g id="XMLID_11388_">
+		<path id="XMLID_11390_" class="st36" d="M40,24h-2c-0.6,0-1.2,0.5-1.2,1.2s0.5,1.2,1.2,1.2h2.2L40,24z"/>
+		<path id="XMLID_11389_" class="st36" d="M36.8,21.1h2.9l-0.1-1c0-0.4-0.1-0.9-0.2-1.3h-2.6c-0.6,0-1.2,0.5-1.2,1.2
+			C35.7,20.6,36.2,21.1,36.8,21.1z"/>
+	</g>
+</g>
+</svg>
